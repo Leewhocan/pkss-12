@@ -71,9 +71,9 @@ quadrantChart
 
     title Приоритеты разработки функциональности
 
-    x-axis Легко --> Сложно
+    x-axis Easy --> Hard
 
-    y-axis Низкий приоритет --> Высокий приоритет
+    y-axis Low Priority --> High Priority
 
     "Регистрация": [0.2, 0.9]
 
